@@ -1,0 +1,17 @@
+node_modules
+dist
+.env    
+.vscode
+.DS_Store
+coverage
+*.log
+.idea
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+*.tsbuildinfo
+/build
+.cache
+.parcel-cache
+.next
+out
